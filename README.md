@@ -10,6 +10,7 @@ You can see an overview of the icons used in the default Video.js font here: htt
 ```sh
 $ npm install grunt-cli # only if you don't already have grunt installed
 $ npm install
+$ npm install -g grunt-cli
 $ grunt
 ```
 
